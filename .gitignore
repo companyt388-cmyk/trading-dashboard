@@ -1,0 +1,8 @@
+hidden_files/
+signal_watch.py
+BACKTEST_REPORT.md
+todo.md
+scripts/
+*.log
+node_modules/
+dist/
